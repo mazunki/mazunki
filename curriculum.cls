@@ -25,8 +25,8 @@
 	{\Huge\bfseries\hspace*{\parindent}\@jobtitle}\\[0.3in]
 	\begin{tabularx}{\textwidth}{X X r l r l}
 	& & mail: &\href{mailto:\@email}{\@email} &GitHub:  & \href{https://github.com/\@github}{\@github}\\[0.3em]
-	& & phone:&\href{tel:\@phone}{\@phone} &LinkedIn:& \href{https://linkedin.com/in/\@linkedin}{\@linkedin} \\[0.3em]
-	& & 	  &        &url:     & \url{\@website}
+	& & phone:&\href{tel:\@phone}{\@phone} &LinkedIn:& \href{https://linkedin.com/in/\@linkedin}{\@linkedin}
+	% & & 	  &        &url:     & \url{\@website}
 	\end{tabularx}
 }
 
