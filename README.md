@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mazunki&theme=dark&hide_border=true&background=22272E">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mazunki&theme=dark&hide_border=true&background=22272E" />
 </p>
-
 <div align="center">
   
-  ![STATS (COMMITS)](https://github-readme-stats-sabesansathananthan.vercel.app/api?username=mazunki&show_icons=true&hide_border=true&theme=gruvbox)
-  ![STATS (LANGUAGES)](https://github-readme-stats.vercel.app/api/top-langs/?username=mazunki&layout=compact&theme=gruvbox&hide_border=true)
-  
+  ![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=mazunki&theme=gruvbox&column=8)
 </div>
 
 **Well, hello! I'm Mazunki, a non-binary programmer from Norway who grew up in Spain. <br />**
@@ -14,22 +11,18 @@
   - Robotics & Intelligent Systems
   - Philosophy
 
-
-
 🌱 I’m currently getting accostumed to Gentoo <br />
 😄 My pronouns are *They/Them* <br />
 ✨ My intrests are *open source development* <br />
 📫 Reach out to me anywhere! I spend a lot of time on Telegram. I go by @mazunki everwhere.
 
-<!--<p align="center"><img src="https://komarev.com/ghpvc/?username=mazunki&label=Profile%20views&color=282828&style=flat" alt="PROFILE VIEWS"/></p>-->
-
-![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=mazunki&theme=gruvbox&margin-w=10&margin-h=15&column=8)
-
-<p align="center">
-
+<div align="center">
+  
+  ![STATS (COMMITS)](https://github-readme-stats-sabesansathananthan.vercel.app/api?username=mazunki&show_icons=true&hide_border=true&theme=gruvbox)
+  ![STATS (LANGUAGES)](https://github-readme-stats.vercel.app/api/top-langs/?username=mazunki&layout=compact&theme=gruvbox&hide_border=true)
   [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=mazunki&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</p>
+  
+</div>
 
 
 <!--
