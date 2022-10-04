@@ -13,7 +13,7 @@
 
 🌱 I’m currently getting accostumed to Gentoo <br />
 😄 My pronouns are *They/Them* <br />
-✨ My intrests are *open source development* <br />
+✨ My interests are *open source development* <br />
 📫 Reach out to me anywhere! I spend a lot of time on Telegram. I go by @mazunki everwhere.
 
 <div align="center">
