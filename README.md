@@ -7,11 +7,11 @@
 </div>
 
 **Well, hello! I'm Mazunki, a non-binary programmer from Norway who grew up in Spain. <br />**
-**I am currently studying two degrees at the University of Oslo:**
+**I am currently studying at the University of Oslo:**
   - Robotics & Intelligent Systems
-  - Philosophy
+  - Philosophy with Linguistics
 
-🌱 I’m currently getting accostumed to Gentoo <br />
+🌱 I’m currently working on cleaning up my Gentoo system, and s6 init system<br />
 😄 My pronouns are *They/Them* <br />
 ✨ My interests are *open source development* <br />
 📫 Reach out to me anywhere! I spend a lot of time on Telegram. I go by @mazunki everwhere.
