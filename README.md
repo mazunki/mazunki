@@ -1,4 +1,4 @@
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=mazunki&theme=dark)](https://git.io/streak-stats)
+  <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=mazunki&theme=dark)](https://git.io/streak-stats)-->
   ![STATS (THOPHIES)](https://github-profile-trophy.vercel.app/?username=mazunki&column=5&margin-w=5&margin-h=5)
 </div>
 
