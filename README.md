@@ -3,14 +3,16 @@
 </div>
 
 **Well, hello! I'm Mazunki, a non-binary programmer from Norway who grew up in Spain. <br />**
-**I am currently studying at the University of Oslo:**
-  - Robotics & Intelligent Systems
-  - Philosophy with Linguistics
+**I am a master's student at the University of Oslo:**
+  - I have a degree in Robotics & Intelligent Systems
+  - I have a degree in Philosophy with Linguistics
+  - I'm currently doing my master's in Programming and System Architecture
 
-🌱 I’m currently working on cleaning up my Gentoo system, and s6 init system<br />
-😄 My pronouns are *They/Them* <br />
-✨ My interests are *open source development* <br />
-📫 Reach out to me anywhere! I spend a lot of time on Telegram. I go by @mazunki everwhere.
+🌱 I’m currently playing around with Nix and NixOS <br />
+😄 My preferred pronouns are *they/them* <br />
+📫 Reach out to me anywhere, I go by @mazunki everwhere. Feel free to ping me! <br />
+💬 Ask me about programming language preferences, compilers, kernels, operating systems, package management, declarative systems, linguistics, philosophy. <br />
+⚡ Fun fact: I've done 3 years of drama club, 3 years of aikido, and 1 year of jiujitsu. <br />
 
 <div align="center">
   
@@ -30,8 +32,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
