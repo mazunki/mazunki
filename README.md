@@ -3,7 +3,7 @@
 </div>
 
 **Well, hello! I'm Mazunki, a non-binary programmer from Norway who grew up in Spain. <br />**
-**I am a master's student at the University of Oslo:**
+**I am a student at the University of Oslo:**
   - I have a degree in Robotics & Intelligent Systems
   - I have a degree in Philosophy with Linguistics
   - I'm currently doing my master's in Programming and System Architecture
