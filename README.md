@@ -1,9 +1,5 @@
-<p align="center">
   [![GitHub Streak](https://streak-stats.demolab.com/?user=mazunki&theme=dark)](https://git.io/streak-stats)
-</p>
-<div align="center">
-  
-  ![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=mazunki&theme=gruvbox&column=8)
+  ![STATS (THOPHIES)](https://github-profile-trophy.vercel.app/?username=mazunki&theme=gruvbox&column=8)
 </div>
 
 **Well, hello! I'm Mazunki, a non-binary programmer from Norway who grew up in Spain. <br />**
