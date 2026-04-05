@@ -17,8 +17,8 @@
 <div align="center">
   
   ![STATS (COMMITS)](https://github-readme-stats-sabesansathananthan.vercel.app/api?username=mazunki&show_icons=true&hide_border=true&theme=gruvbox)
-  ![STATS (LANGUAGES)](https://github-readme-stats.vercel.app/api/top-langs/?username=mazunki&layout=compact&theme=gruvbox&hide_border=true)
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mazunki)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <!--![STATS (LANGUAGES)](https://github-readme-stats.vercel.app/api/top-langs/?username=mazunki&layout=compact&theme=gruvbox&hide_border=true)-->
+  <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mazunki)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
   
 </div>
 
